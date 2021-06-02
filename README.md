@@ -10,7 +10,7 @@
   <img align="center" alt="Frank-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Frank-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Frank-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Frank-yoda" src="https://blog.uiclap.com/wp-content/uploads/sites/3/2020/08/gato-digitando.gif">
+  <img align="right" alt="Frank-yoda" src="https://i.pinimg.com/originals/e0/00/52/e00052781c260969954b369510c28934.gif">
 </div>
   
   ##
