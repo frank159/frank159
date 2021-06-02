@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Frank C Filho 
+## Olá! Eu sou a Frank C Filho 
  <div>
   <a href="https://github.com/frank159">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frank159&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,6 +20,6 @@
   <a href = "mailto: frankcf60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/frank-de-castro-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/frank159/blob/output/github-contribution-grid-snake.svg)
+  !(https://github.com/frank159/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
