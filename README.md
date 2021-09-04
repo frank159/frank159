@@ -2,6 +2,7 @@
  <div>
   <a href="https://github.com/frank159">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frank159&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank159&layout=compact&langs_count=7&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Frank-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,7 +10,7 @@
   <img align="center" alt="Frank-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Frank-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Frank-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Frank-yoda" src="https://gifer.com/embed/3qh2">
+  <img align="right" alt="Frank-yoda" src="./3qh2.gif">
 </div>
   
   ##
